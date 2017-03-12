@@ -1,0 +1,8 @@
+.project
+.pydevproject
+.settings/
+*.pyc
+conf/app.conf
+.bash_profile
+.idea/
+sunxm.conf

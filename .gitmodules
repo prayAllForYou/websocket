@@ -1,0 +1,3 @@
+[submodule "src/common"]
+	path = src/common
+	url = git@haizhi.me:bdp-server/bdp-common.git
